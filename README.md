@@ -1,4 +1,3 @@
-
 # CI/CD Pipeline Templates
 
 This repository contains reusable CI/CD pipeline templates for GitHub Actions. These templates are designed to help teams quickly adopt consistent and reliable workflows across projects in the organization.
@@ -6,6 +5,7 @@ This repository contains reusable CI/CD pipeline templates for GitHub Actions. T
 ## 📁 Templates
 
 ### 1. **Node.js Project Workflow**
+
 - Installs dependencies
 - Runs tests and linting
 - Builds and optionally deploys
@@ -13,6 +13,7 @@ This repository contains reusable CI/CD pipeline templates for GitHub Actions. T
 Path: `.github/workflows/nodejs.yml`
 
 ### 2. **Python Project Workflow**
+
 - Set up Python environment
 - Install dependencies
 - Run unit tests and code checks
@@ -20,6 +21,7 @@ Path: `.github/workflows/nodejs.yml`
 Path: `.github/workflows/python.yml`
 
 ### 3. **Docker Build & Push Workflow**
+
 - Builds Docker images
 - Pushes to GitHub Container Registry or Docker Hub
 
@@ -43,4 +45,4 @@ If you'd like to add a template for another language or tool, feel free to submi
 
 ---
 
-Maintained by: ShanksTropezz 🧑‍💻🧑‍💻
+Maintained and Developed by: ShanksTropezz 🧑‍💻🧑‍💻
