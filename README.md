@@ -43,4 +43,4 @@ If you'd like to add a template for another language or tool, feel free to submi
 
 ---
 
-Maintained by: Duo Dev Team 🧑‍💻🧑‍💻
+Maintained by: ShanksTropezz 🧑‍💻🧑‍💻
